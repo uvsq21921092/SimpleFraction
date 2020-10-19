@@ -16,4 +16,12 @@ public class Fraction {
 		return fraction;
 		}
 	
+	public int getNum() {
+		return 0;
+	}
+	
+	public int getDenum() {
+		return 0;
+	}
+	
 }
