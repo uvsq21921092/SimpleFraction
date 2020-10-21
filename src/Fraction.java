@@ -15,11 +15,10 @@ public class Fraction {
 		String fraction=num+" / "+denum;
 		return fraction;
 		}
-	
+	//getters
 	public int getNum() {
 		return 0;
 	}
-	
 	public int getDenum() {
 		return 0;
 	}
